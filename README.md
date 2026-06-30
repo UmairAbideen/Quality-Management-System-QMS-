@@ -122,3 +122,39 @@ User Roles
 | Supply Chain |
 | Technical Service |
 | Sales |
+
+
+## ✨ Functionalities
+
+### 🔐 Security
+- ✅ Authentication
+- ✅ Authorization
+- ✅ Role-based Access Control (RBAC)
+- ✅ Electronic Signature
+
+### 📄 Document Management
+- ✅ PDF Upload
+- ✅ PDF Download
+- ✅ Version Control
+- ✅ Document Search
+
+### 📊 Reporting & Analytics
+- ✅ Dashboard
+- ✅ Charts & Analytics
+- ✅ Excel Export
+- ✅ PDF Reports
+
+### ⚡ Productivity
+- ✅ Email Notifications
+- ✅ Pagination
+- ✅ Search & Filters
+- ✅ Multi-level Approval Workflow
+
+### 💻 Technical Features
+- ✅ Laravel 10
+- ✅ MySQL Database
+- ✅ Eloquent ORM Relationships
+- ✅ PDF Generation
+- ✅ Excel Import & Export
+- ✅ Responsive User Interface
+- ✅ Production Deployment
