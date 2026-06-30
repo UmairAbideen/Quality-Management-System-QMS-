@@ -193,3 +193,31 @@ PDF / Excel
 ↓
 
 Email
+
+
+## 🛠️ Technologies Used
+
+### Backend
+- Laravel 10
+- PHP 8
+
+### Frontend
+- Bootstrap
+- JavaScript
+- jQuery
+- HTML5
+- CSS3
+
+### Database
+- MySQL
+
+### Libraries & Packages
+- Laravel Excel
+- DOMPDF
+
+### Communication
+- SMTP Mail
+
+### Version Control
+- Git
+- GitHub
