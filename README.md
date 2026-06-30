@@ -22,3 +22,16 @@ Approve new user
 <img width="1900" height="832" alt="Blur_2- User1" src="https://github.com/user-attachments/assets/e06658bd-0647-45f6-896a-c5bd4e390441" />
 
 <img width="1912" height="792" alt="image" src="https://github.com/user-attachments/assets/ead8df8e-2513-4a74-99a1-59d407082915" />
+
+## Document Management
+Policy Documents
+SOP Repository - Department Wise visibility
+Version Control
+PDF Uploads
+Document Download
+
+<img width="1903" height="823" alt="Blur_Screenshot 2026-06-30 110306" src="https://github.com/user-attachments/assets/54f2a795-3e5a-44a3-8eec-21de5963dbe7" />
+
+<img width="1900" height="832" alt="Blur_2- User1" src="https://github.com/user-attachments/assets/762da61c-df06-4f94-94b4-57ae6a91ae6e" />
+
+
