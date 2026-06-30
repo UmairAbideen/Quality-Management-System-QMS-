@@ -162,38 +162,45 @@ User Roles
 
 ## Add Architecture
 
-Something like
-
-Users
-
-↓
-
-Authentication
-
-↓
-
-Role Management
-
-↓
-
-Modules
-
-↓
-
-Database
-
-↓
-
-Reports
-
-↓
-
-PDF / Excel
-
-↓
-
-Email
-
+                 ┌────────────────────────────┐
+                 │        USERS               │
+                 │ QA | Manager | Director    │
+                 │ Office | Supply Chain      │
+                 └────────────┬───────────────┘
+                              │
+                              ▼
+        ┌─────────────────────────────────────────┐
+        │         PRESENTATION LAYER              │
+        │  Web UI (Dashboard, Forms, Reports)     │
+        └────────────┬────────────────────────────┘
+                     │
+                     ▼
+        ┌─────────────────────────────────────────┐
+        │        APPLICATION LAYER (Laravel 10)   │
+        │                                         │
+        │  • Authentication & RBAC                │
+        │  • SOP Modules                         │
+        │  • Workflow / Approval Engine          │
+        │  • CAPA / Audit / Complaint System     │
+        │  • Document Control System             │
+        │  • Notifications (Email)               │
+        │  • Reporting (PDF / Excel / Charts)    │
+        └────────────┬────────────────────────────┘
+                     │
+        ┌────────────┼────────────────────────────┐
+        ▼            ▼                            ▼
+┌────────────┐ ┌──────────────┐        ┌──────────────────┐
+│ MySQL DB   │ │ File Storage │        │ Audit Logs       │
+│ (Records)  │ │ (PDFs/SOPs)  │        │ Version History  │
+└────────────┘ └──────────────┘        └──────────────────┘
+                     │
+                     ▼
+        ┌─────────────────────────────────────────┐
+        │        EXTERNAL SERVICES                │
+        │  SMTP Email Server                     │
+        │  Excel Export/Import (Laravel Excel)   │
+        │  PDF Generation (DOMPDF)               │
+        └─────────────────────────────────────────┘
 
 ## 🛠️ Technologies Used
 
