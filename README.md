@@ -98,7 +98,7 @@ Email notification
 ---
 <br>
 
-## User Roles
+## 👤 User Roles
 
 | Role | Responsibilities |
 |------|------------------|
@@ -111,7 +111,7 @@ Email notification
 <br>
 
 
-## Departments
+## 🏢 Departments
 
 | Department |
 |------------|
