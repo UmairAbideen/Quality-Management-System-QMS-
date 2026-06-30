@@ -41,3 +41,40 @@ PDF Report
 
 <img width="1876" height="885" alt="Blur_Screenshot 2026-06-30 110830 (1)" src="https://github.com/user-attachments/assets/04a3bb98-e722-4b3b-a12b-55eb850c2fda" />
 
+
+## Modules
+
+Dashboard	
+User Management	
+Document Management	
+Complaint Handling	
+Customer Feedback	
+Risk Assessment	
+Internal Audit	
+Employee Training	
+Product Recall
+CAPA
+Change Control	
+Deviation Management
+Management Review Meeting	
+Document Control
+
+## MODULES EXPLANATION
+
+## Complaint Handling
+Forms
+Complaint Form
+Complaint Log
+Features
+Complaint registration
+Investigation workflow
+Status tracking
+PDF generation
+Approval workflow
+Electronic signature
+Email notification
+
+
+**Business Workflows**
+
+
