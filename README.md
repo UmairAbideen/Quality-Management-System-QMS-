@@ -42,22 +42,30 @@ PDF Report
 <img width="1876" height="885" alt="Blur_Screenshot 2026-06-30 110830 (1)" src="https://github.com/user-attachments/assets/04a3bb98-e722-4b3b-a12b-55eb850c2fda" />
 
 
-## Modules
+## 📦 Modules
 
-Dashboard	
-User Management	
-Document Management	
-Complaint Handling	
-Customer Feedback	
-Risk Assessment	
-Internal Audit	
-Employee Training	
-Product Recall
-CAPA
-Change Control	
-Deviation Management
-Management Review Meeting	
-Document Control
+### 1. Core System
+1. Dashboard  
+2. User Management  
+3. Document Management  
+4. Document Control  
+
+### 2. Quality Management
+5. Complaint Handling  
+6. Customer Feedback  
+7. CAPA (Corrective & Preventive Action)  
+8. Deviation Management  
+9. Change Control  
+
+### 3. Compliance & Risk
+10. Risk Assessment  
+11. Internal Audit  
+12. Product Recall  
+
+### 4. Operations
+13. Employee Training  
+14. Management Review Meeting  
+
 
 ## Modules Explanation
 
