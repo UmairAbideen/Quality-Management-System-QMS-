@@ -41,6 +41,8 @@ PDF Report
 
 <img width="1876" height="885" alt="Blur_Screenshot 2026-06-30 110830 (1)" src="https://github.com/user-attachments/assets/04a3bb98-e722-4b3b-a12b-55eb850c2fda" />
 
+---
+<br>
 
 ## 📦 Modules
 
@@ -66,6 +68,8 @@ PDF Report
 13. Employee Training  
 14. Management Review Meeting  
 
+---
+<br>
 
 ## Modules Explanation
 
@@ -82,6 +86,8 @@ Approval workflow
 Electronic signature
 Email notification
 
+---
+<br>
 
 ## Business Workflows
 
