@@ -91,27 +91,24 @@ Email notification
 
 ## Business Workflows
 
-Complaint Raised
+## 🔄 Deviation Management Workflow
 
-        ↓
+```mermaid
+flowchart TD
 
-QA Review
+A[Identification of a deviation] --> B[Form submitted by the Officer]
+B --> C[Form approval by Manager, QA & Director]
+C --> D[Root cause analysis (by Manager)]
+D --> E[Categorization of deviation (by QA)]
 
-        ↓
+E -->|Minor deviation| F1[Risk-based assessment of impacts (by Manager)]
+E -->|Critical / Major deviation| F2[Committee risk-based assessment of impacts]
 
-Investigation
+F2 --> G[Initiation of CAPA / Change Control / Recall (if required)]
 
-        ↓
-
-Corrective Action
-
-        ↓
-
-Director Approval
-
-        ↓
-
-Complaint Closed
+F1 --> H[Close out of deviation by Director]
+G --> H
+```
 
 ---
 <br>
