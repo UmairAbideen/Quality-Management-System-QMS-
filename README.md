@@ -19,6 +19,6 @@ Department allocation
 Approve new user
 
 
-<img width="1900" height="832" alt="2- User1" src="https://github.com/user-attachments/assets/388c3d79-4015-483e-b5ca-88b449c0eff1" />
+<img width="1900" height="832" alt="Blur_2- User1" src="https://github.com/user-attachments/assets/e06658bd-0647-45f6-896a-c5bd4e390441" />
 
 <img width="1912" height="792" alt="image" src="https://github.com/user-attachments/assets/ead8df8e-2513-4a74-99a1-59d407082915" />
