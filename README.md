@@ -165,7 +165,7 @@ User Roles
 
                                 
                                                ┌────────────────────────────┐
-                                               │        USERS               │
+                                               │           USERS            │
                                                │    QA | Manager| Director  │
                                                │          Officer           |
                                                └─────────────┬──────────────┘
