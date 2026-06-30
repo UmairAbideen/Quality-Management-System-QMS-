@@ -162,6 +162,9 @@ User Roles
 
 ## Add Architecture
 
+## 🏗️ System Architecture
+
+```
                  ┌────────────────────────────┐
                  │        USERS               │
                  │ QA | Manager | Director    │
@@ -179,12 +182,12 @@ User Roles
         │        APPLICATION LAYER (Laravel 10)   │
         │                                         │
         │  • Authentication & RBAC                │
-        │  • SOP Modules                         │
-        │  • Workflow / Approval Engine          │
-        │  • CAPA / Audit / Complaint System     │
-        │  • Document Control System             │
-        │  • Notifications (Email)               │
-        │  • Reporting (PDF / Excel / Charts)    │
+        │  • SOP Modules                          │
+        │  • Workflow / Approval Engine           │
+        │  • CAPA / Audit / Complaint System      │
+        │  • Document Control System              │
+        │  • Notifications (Email)                │
+        │  • Reporting (PDF / Excel / Charts)     │
         └────────────┬────────────────────────────┘
                      │
         ┌────────────┼────────────────────────────┐
@@ -198,9 +201,10 @@ User Roles
         ┌─────────────────────────────────────────┐
         │        EXTERNAL SERVICES                │
         │  SMTP Email Server                     │
-        │  Excel Export/Import (Laravel Excel)   │
-        │  PDF Generation (DOMPDF)               │
+        │  Laravel Excel (Import/Export)         │
+        │  DOMPDF (PDF Generation)               │
         └─────────────────────────────────────────┘
+```
 
 ## 🛠️ Technologies Used
 
