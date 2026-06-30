@@ -34,4 +34,10 @@ Document Download
 
 <img width="1912" height="822" alt="Blur_Screenshot 2026-06-30 110401" src="https://github.com/user-attachments/assets/7ee7b6af-5ede-4d9d-8bfa-976cc9683942" />
 
+**Complaint Handling**
+Complaint Form
+Complaint Register
+PDF Report
+
+<img width="1876" height="885" alt="Blur_Screenshot 2026-06-30 110830 (1)" src="https://github.com/user-attachments/assets/04a3bb98-e722-4b3b-a12b-55eb850c2fda" />
 
