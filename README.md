@@ -109,7 +109,7 @@ Complaint Closed
 | Admin / QA | Complete system administration & QA Approvals |
 | Director | Final approvals |
 | Manager | Department approvals |
-| Office | Data entry & submissions |
+| Officer | Data entry & submissions |
 
 ---
 <br>
