@@ -100,6 +100,7 @@ Director Approval
 Complaint Closed
 
 ---
+<br>
 
 ## User Roles
 
@@ -111,10 +112,12 @@ Complaint Closed
 | Office | Data entry & submissions |
 
 ---
+<br>
 
 
 ## Departments
 
+| Department |
 |------------|
 | QA |
 | Supply Chain |
@@ -122,6 +125,7 @@ Complaint Closed
 | Sales |
 
 ---
+<br>
 
 ## ✨ Functionalities
 
@@ -158,6 +162,7 @@ Complaint Closed
 -  Production Deployment
 
 ---
+<br>
 
 ## 🏗️ System Architecture
 
