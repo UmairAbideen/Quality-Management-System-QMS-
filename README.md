@@ -93,22 +93,7 @@ Email notification
 
 ## 🔄 Deviation Management Workflow
 
-```mermaid
-flowchart TD
-
-A[Identification of a deviation] --> B[Form submitted by the Officer]
-B --> C[Form approval by Manager, QA & Director]
-C --> D[Root cause analysis (by Manager)]
-D --> E[Categorization of deviation (by QA)]
-
-E -->|Minor deviation| F1[Risk-based assessment of impacts (by Manager)]
-E -->|Critical / Major deviation| F2[Committee risk-based assessment of impacts]
-
-F2 --> G[Initiation of CAPA / Change Control / Recall (if required)]
-
-F1 --> H[Close out of deviation by Director]
-G --> H
-```
+<img width="1107" height="937" alt="image" src="https://github.com/user-attachments/assets/c7a125db-1c59-45bc-b5be-99f820c965ef" />
 
 ---
 <br>
