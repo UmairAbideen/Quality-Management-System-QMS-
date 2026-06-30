@@ -159,7 +159,7 @@ User Roles
 -  Responsive User Interface
 -  Production Deployment
 
-
+---
 
 ## 🏗️ System Architecture
 
@@ -206,7 +206,7 @@ User Roles
                                         │  DOMPDF (PDF Generation)                │
                                         └─────────────────────────────────────────┘
                         
-
+---
 
 ## 🛠️ Technologies Used
 
