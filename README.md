@@ -7,7 +7,6 @@ Designed for organizations managing controlled documents, complaints, CAPA, audi
 <br><br>
 
 ## Features
-<br>
 
 ### KPI Dashboard
 Charts & Metrics for:
