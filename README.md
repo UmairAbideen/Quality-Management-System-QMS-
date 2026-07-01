@@ -108,8 +108,7 @@ This repository showcases the architecture, modules, screenshots, and technical 
 <img width="1912" height="792" alt="Blur_17- Master Index" src="https://github.com/user-attachments/assets/1e85d80a-a599-41eb-97ea-e054dbcf25d8" />
 
 
-
-<br>
+<br><br>
 
 ## 📦 Modules
 
@@ -136,7 +135,7 @@ This repository showcases the architecture, modules, screenshots, and technical 
 14. Management Review Meeting  
 
 
-<br><br>
+<br>
 
 ## Modules Explanation
 
