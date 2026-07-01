@@ -4,7 +4,7 @@ Designed for organizations managing controlled documents, complaints, CAPA, audi
 
 ## Features
 
-## KPI Dashboard
+**## KPI Dashboard**
 Charts & Metrics for:
 Complaint statistics
 Customer Feedback
@@ -12,7 +12,7 @@ CAPAs Open
 
 <img width="1872" height="890" alt="Blur_1-DB" src="https://github.com/user-attachments/assets/547635ff-dd07-40b8-8817-8fb01651b492" />
 
-**User Management**
+## User Management
 Multi-user system
 Create Single User
 Create Multiple Users thorugh excel
