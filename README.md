@@ -68,9 +68,9 @@ PDF Report
 
 <img width="1632" height="717" alt="Blur_9- CCCM" src="https://github.com/user-attachments/assets/f385f82e-e05d-49bb-95bb-3f1b9c8c382b" />
 
-<img width="1241" height="1754" alt="Blur_10a - CCM Report" src="https://github.com/user-attachments/assets/9bb607e4-51c4-46a9-aa38-c85c55cd73b9" />
+<img width="1241" height="1627" alt="Blur_10a - CCM Report" src="https://github.com/user-attachments/assets/f10c4d2d-70ae-4d6f-a694-9b577e0fcfa9" />
 
-<img width="1241" height="1754" alt="Blur_10b - CCM Report" src="https://github.com/user-attachments/assets/45cc1b08-7dad-4ab7-b5c8-38931cbe72ad" />
+<img width="1241" height="1450" alt="Blur_10b - CCM Report" src="https://github.com/user-attachments/assets/d7679008-a41c-4844-b365-2c9b0571823c" />
 
 
 ### Deviation Management
