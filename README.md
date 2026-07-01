@@ -1,5 +1,3 @@
-<img width="1901" height="747" alt="Blur_4- Documents Upload And Download" src="https://github.com/user-attachments/assets/5d219157-50fd-4008-854a-11096db27561" />
-
 ### Quality-Management-System-QMS
 A web-based Quality Management System developed for an imported Medical Device Distributor to comply with ISO 9001 quality processes.
 Designed for organizations managing controlled documents, complaints, CAPA, audits, employee training, product recalls, and regulatory workflows.
