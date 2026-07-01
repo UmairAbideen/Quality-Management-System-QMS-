@@ -4,7 +4,6 @@ Designed for organizations managing controlled documents, complaints, CAPA, audi
 
 ![Uploading Blur_19.png…]()
 
-
 ## Features
 
 ## KPI Dashboard
