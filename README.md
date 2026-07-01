@@ -1,16 +1,18 @@
-# Quality-Management-System-QMS
+<img width="1901" height="747" alt="Blur_4- Documents Upload And Download" src="https://github.com/user-attachments/assets/5d219157-50fd-4008-854a-11096db27561" /># Quality-Management-System-QMS
 A web-based Quality Management System developed for an imported Medical Device Distributor to comply with ISO 9001 quality processes.
 Designed for organizations managing controlled documents, complaints, CAPA, audits, employee training, product recalls, and regulatory workflows.
 
 ## Features
-KPI Dashboard
+
+## KPI Dashboard
 Charts & Metrics for:
 Complaint statistics
 Customer Feedback
 CAPAs Open
-<img width="1902" height="637" alt="image" src="https://github.com/user-attachments/assets/a3ae3637-531a-4e8e-a2ab-3cf06e67c384" />
 
-## User Management
+<img width="1872" height="890" alt="Blur_1-DB" src="https://github.com/user-attachments/assets/547635ff-dd07-40b8-8817-8fb01651b492" />
+
+**User Management**
 Multi-user system
 Create Single User
 Create Multiple Users thorugh excel
@@ -18,10 +20,9 @@ Role-based permissions
 Department allocation
 Approve new user
 
+<img width="1662" height="690" alt="Blur_2- User Management" src="https://github.com/user-attachments/assets/0d07431b-9841-412b-a013-5effdefbb644" />
 
-<img width="1900" height="832" alt="Blur_2- User1" src="https://github.com/user-attachments/assets/e06658bd-0647-45f6-896a-c5bd4e390441" />
-
-<img width="1912" height="792" alt="image" src="https://github.com/user-attachments/assets/ead8df8e-2513-4a74-99a1-59d407082915" />
+<img width="1666" height="317" alt="Blur_3- User Approval " src="https://github.com/user-attachments/assets/8788cc45-d520-4c5b-abb0-9951b2e97fcc" />
 
 ## Document Management
 Policy Documents
@@ -30,16 +31,68 @@ Version Control
 PDF Uploads
 Document Download
 
-<img width="1903" height="823" alt="Blur_Screenshot 2026-06-30 110306" src="https://github.com/user-attachments/assets/54f2a795-3e5a-44a3-8eec-21de5963dbe7" />
+<img width="1901" height="747" alt="Blur_4- Documents Upload And Download" src="https://github.com/user-attachments/assets/3792d7f9-1939-4386-b741-f9bf7d6d494f" />
 
-<img width="1912" height="822" alt="Blur_Screenshot 2026-06-30 110401" src="https://github.com/user-attachments/assets/7ee7b6af-5ede-4d9d-8bfa-976cc9683942" />
-
-**Complaint Handling**
+**Product Complaint**
 Complaint Form
 Complaint Register
 PDF Report
 
-<img width="1876" height="885" alt="Blur_Screenshot 2026-06-30 110830 (1)" src="https://github.com/user-attachments/assets/04a3bb98-e722-4b3b-a12b-55eb850c2fda" />
+<img width="1912" height="862" alt="Blur_5- Complaint Form" src="https://github.com/user-attachments/assets/7119fd58-8cdf-4552-8005-1e4884e6b6d7" />
+
+
+## Customer Feedback  
+
+<img width="1921" height="1456" alt="Blur_6- Feedback Form" src="https://github.com/user-attachments/assets/2e011f79-2eac-4b25-8e3e-67d8fb380933" />
+
+
+## Risk Assessment  
+
+<img width="1241" height="1754" alt="Blur_7a- Risk" src="https://github.com/user-attachments/assets/67a726d5-c447-4b4b-bea9-a199e32ca362" />
+<img width="1241" height="1754" alt="Blur_7b- Risk" src="https://github.com/user-attachments/assets/a2110c0a-b887-4149-97c3-2f59fc4657d5" />
+
+## Management Review Meeting
+
+<img width="1907" height="680" alt="Blur_8- MRM" src="https://github.com/user-attachments/assets/65dae836-fd00-4e31-9e83-531e82d945e6" />
+
+## Internal Audit  
+
+<img width="1241" height="1754" alt="Blur_18- IA" src="https://github.com/user-attachments/assets/a0d5ef3b-3bf1-4edd-ae98-65bcaf5be506" />
+
+## Change Control
+
+<img width="1632" height="717" alt="Blur_9- CCCM" src="https://github.com/user-attachments/assets/f385f82e-e05d-49bb-95bb-3f1b9c8c382b" />
+
+<img width="1241" height="1754" alt="Blur_10a - CCM Report" src="https://github.com/user-attachments/assets/9bb607e4-51c4-46a9-aa38-c85c55cd73b9" />
+
+<img width="1241" height="1754" alt="Blur_10b - CCM Report" src="https://github.com/user-attachments/assets/45cc1b08-7dad-4ab7-b5c8-38931cbe72ad" />
+
+
+## Deviation Management
+
+<img width="1900" height="762" alt="Blur_11- Dev  Log" src="https://github.com/user-attachments/assets/3ad2d160-b91c-4247-8cd2-87f7e436b0e6" />
+
+<img width="1907" height="772" alt="Blur_12- Dev  Log" src="https://github.com/user-attachments/assets/269aa7f6-2a3e-4123-9bca-77532c304798" />
+
+
+## CAPA (Corrective & Preventive Action)
+
+<img width="1241" height="1754" alt="Blur_14a- Capa" src="https://github.com/user-attachments/assets/cc1ad936-9652-4c48-ad62-e30179e3b726" />
+
+<img width="1241" height="1754" alt="Blur_14b- Capa" src="https://github.com/user-attachments/assets/d819a14a-419e-4750-81c2-9dc79789ed5a" />
+
+
+## Employee Training  
+
+<img width="1667" height="1048" alt="Blur_15- Training" src="https://github.com/user-attachments/assets/fdb54f36-e7ad-4308-bc93-417d7fe1434c" />
+
+<img width="540" height="767" alt="Blur_16- Training Attendance" src="https://github.com/user-attachments/assets/2b6f7e5d-6392-42f3-9719-a391b768b582" />
+
+Document Control  
+
+<img width="1912" height="792" alt="Blur_17- Master Index" src="https://github.com/user-attachments/assets/1e85d80a-a599-41eb-97ea-e054dbcf25d8" />
+
+
 
 ---
 <br>
@@ -53,7 +106,7 @@ PDF Report
 4. Document Control  
 
 ### 2. Quality Management
-5. Complaint Handling  
+5. Product Complaint  
 6. Customer Feedback  
 7. CAPA (Corrective & Preventive Action)  
 8. Deviation Management  
