@@ -12,6 +12,32 @@ This repository showcases the architecture, modules, screenshots, and technical 
 
 <br>
 
+## Key Highlights
+
+✔ 14+ Quality Management Modules
+
+✔ 30+ Business Forms
+
+✔ 4 User Roles
+
+✔ 4 Departments
+
+✔ 15+ Reports & Logs
+
+✔ Electronic Signature Workflow
+
+✔ Multi-Level Approval System
+
+✔ PDF & Excel Automation
+
+✔ Email Notification System
+
+✔ Responsive Web Application
+
+✔ Production Deployment
+
+<br>
+
 ## Features
 
 ### KPI Dashboard
