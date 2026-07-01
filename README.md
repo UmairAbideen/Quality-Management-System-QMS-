@@ -6,7 +6,7 @@ Designed for organizations managing controlled documents, complaints, CAPA, audi
 
 ## Features
 
-## KPI Dashboard
+### KPI Dashboard
 Charts & Metrics for:
 Complaint statistics
 Customer Feedback
