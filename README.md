@@ -6,13 +6,13 @@ Designed for organizations managing controlled documents, complaints, CAPA, audi
 
 <br><br>
 
-## Disclaimer
+## 📄Disclaimer
 
 This repository showcases the architecture, modules, screenshots, and technical implementation of a Quality Management System developed by me. Source code is intentionally kept private to protect confidential business logic and client information. All screenshots have been sanitized to remove sensitive organizational data.
 
 <br>
 
-## Key Highlights
+## 🌟 Key Highlights
 
 ✔ 14 Quality Management Modules
 
@@ -40,7 +40,7 @@ This repository showcases the architecture, modules, screenshots, and technical 
 
 <br>
 
-## Features
+## ✨ Features
 
 ### KPI Dashboard
 
@@ -260,7 +260,7 @@ Manages product recall activities from recall initiation through final closure w
 
 
 
-## 🔄 Change Control Management
+## 🔁 Change Control Management
 
 **Controlled implementation of changes**
 
@@ -333,7 +333,7 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 
 <br>
 
-## Business Workflows
+## 🔄 Business Workflows
 
 <img width="718" height="924" alt="Deviation" src="https://github.com/user-attachments/assets/61f38983-afcc-4aeb-a9cf-1943a7b7ea0b" />
 <br><br><br>
@@ -344,24 +344,26 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 
 ## 👤 User Roles
 
-| Role | Responsibilities |
-|||
-| Admin / QA | Complete system administration & QA Approvals |
-| Director | Final approvals |
-| Manager | Department approvals |
-| Officer | Data entry & submissions |
+| **Role**          | **Responsibilities**                                                  |
+| ----------------- | --------------------------------------------------------------------- |
+|**Admin / QA** | Complete system administration, QA management, and approval authority |
+|**Director**   | Final approvals                                                       |
+|**Manager**    | Department approvals                                                  |
+|**Officer**    | Data entry and submissions                                            |
+
 
 <br>
 
 
 ## 🏢 Departments
 
-| Department |
-|____________|
-| QA |
-| Supply Chain |
+| **Department**       |
+| -------------------- |
+| Quality Assurance |
+| Supply Chain      |
 | Technical Service |
-| Sales |
+| Sales             |
+
 
 <br>
 
@@ -402,7 +404,7 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 
 <br>
 
-## Deployment
+## 📦 Deployment
 
 • Shared Hosting Deployment
 
@@ -493,13 +495,13 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 
 <br>
 
-## Customization Available
+## ⚙️ Customization Available
 
 The system can be customized for different industries, departments, workflows, approval hierarchies, and document requirements based on organizational needs.
 
 <br>
 
-## About the Developer
+## 👨‍💻 About the Developer
 
 - Muhammad Umair
 - Laravel Developer
