@@ -106,7 +106,7 @@ Designed for organizations managing controlled documents, complaints, CAPA, audi
 
 ## Modules Explanation
 
-### 📊 Dashboard
+## 📊 Dashboard
 
 **Quality at a glance**
 
@@ -118,6 +118,188 @@ Provides management with a centralized overview of quality activities, including
 - Pending Approvals
 - Quality Metrics
 
+---
+
+## 👥 User Management
+
+**Secure role-based access**
+
+Manages system users across multiple departments with role-based permissions. Supports user onboarding, approval, activation/deactivation, profile management, and bulk user import through Excel.
+
+### Highlights
+- Four User Roles
+- Department Assignment
+- User Approval Workflow
+- Excel Import
+- Account Activation/Deactivation
+
+---
+
+## 📁 Document Management
+
+**Controlled document repository**
+
+Maintains Quality Policies and SOPs in a centralized repository with department-wise access, ensuring controlled distribution of approved documents.
+
+### Highlights
+- Policy Management
+- SOP Upload & Download
+- Department-wise Access
+- Controlled Document Distribution
+
+---
+
+## 📝 Product Complaint Handling
+
+**End-to-end complaint lifecycle**
+
+Records customer complaints, tracks investigations, and maintains a complete complaint history from submission through management approval and closure.
+
+### Highlights
+- Complaint Registration
+- Complaint Tracking
+- Investigation Workflow
+- Management Approval
+
+---
+
+## 💬 Customer Feedback
+
+**Capture customer experience**
+
+Collects customer feedback, maintains historical records, and generates Excel reports for trend analysis and management review.
+
+### Highlights
+- Feedback Collection
+- Historical Records
+- Excel Reporting
+
+---
+
+## ⚠️ Risk Assessment
+
+**Identify and control risks**
+
+Evaluates operational and product-related risks, assigns risk levels, and routes assessments for management approval while maintaining a complete risk register.
+
+### Highlights
+- Risk Evaluation
+- Risk Register
+- Approval Workflow
+- Risk Tracking
+
+---
+
+## 📅 Management Review Meeting
+
+**Streamlined management meetings**
+
+Supports the complete management review process by organizing meeting agendas, recording minutes, collecting electronic attendance signatures, and distributing documents through email.
+
+### Highlights
+- Agenda Management
+- Minutes Recording
+- Email Sharing
+- Electronic Signatures
+
+---
+
+## 🔍 Internal Audit
+
+**Audit planning and reporting**
+
+Schedules internal audits, records findings, and documents audit reports to ensure continual improvement and regulatory compliance.
+
+### Highlights
+- Audit Scheduling
+- Audit Reporting
+- Findings Management
+
+---
+
+## 🚨 Product Recall
+
+**Controlled recall process**
+
+Manages product recall activities from recall initiation through final closure while maintaining complete documentation for traceability.
+
+### Highlights
+- Recall Initiation
+- Recall Tracking
+- Closing Reports
+
+---
+
+## 🔄 Change Control Management
+
+**Controlled implementation of changes**
+
+Ensures organizational changes are evaluated, risk assessed, approved, implemented, verified, and formally closed through a structured approval workflow.
+
+### Highlights
+- Change Request Management
+- Impact Assessment
+- Multi-level Approvals
+- Implementation Verification
+- Change Closure
+
+---
+
+## 📌 Deviation Management
+
+**Controlled deviation handling**
+
+Captures process deviations, performs root cause analysis and risk evaluation, and manages corrective actions until formal closure.
+
+### Highlights
+- Deviation Reporting
+- Root Cause Analysis
+- Risk Categorization
+- Management Approval
+- Closure Tracking
+
+---
+
+## ✅ Corrective and Preventive Action (CAPA)
+
+**Continuous improvement**
+
+Tracks corrective and preventive actions from identification through implementation, effectiveness verification, and management approval.
+
+### Highlights
+- CAPA Initiation
+- Action Tracking
+- Effectiveness Verification
+- Approval Workflow
+
+---
+
+## 🎓 Employee Training
+
+**Workforce competency management**
+
+Plans employee training, records attendance with electronic signatures, gathers participant feedback, and manages new employee orientation.
+
+### Highlights
+- Training Plans
+- Attendance Tracking
+- Electronic Signatures
+- Feedback Collection
+- New Employee Orientation
+
+---
+
+## 📚 Document Control
+
+**Maintain document integrity**
+
+Controls document numbering, revision requests, obsolescence, and master indexes to ensure only current and approved documents are available across the organization.
+
+### Highlights
+- Change Request Management
+- Document Numbering
+- Obsolescence Control
+- Internal & External Master Indexes
 
 ---
 <br>
