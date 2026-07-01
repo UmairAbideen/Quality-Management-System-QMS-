@@ -9,52 +9,31 @@ Designed for organizations managing controlled documents, complaints, CAPA, audi
 ## Features
 
 ### KPI Dashboard
-Charts & Metrics for:
-Complaint statistics
-Customer Feedback
-CAPAs Open
 
 <img width="1872" height="890" alt="Blur_1-DB" src="https://github.com/user-attachments/assets/547635ff-dd07-40b8-8817-8fb01651b492" />
 
 ### User Management
-Multi-user system
-Create Single User
-Create Multiple Users thorugh excel
-Role-based permissions
-Department allocation
-Approve new user
 
 <img width="1662" height="690" alt="Blur_2- User Management" src="https://github.com/user-attachments/assets/0d07431b-9841-412b-a013-5effdefbb644" />
 
 <img width="1666" height="317" alt="Blur_3- User Approval " src="https://github.com/user-attachments/assets/8788cc45-d520-4c5b-abb0-9951b2e97fcc" />
 
 ### Document Management
-Policy Documents
-SOP Repository - Department Wise visibility
-Version Control
-PDF Uploads
-Document Download
 
 <img width="1901" height="747" alt="Blur_4- Documents Upload And Download" src="https://github.com/user-attachments/assets/3792d7f9-1939-4386-b741-f9bf7d6d494f" />
 
 ### Product Complaint
-Complaint Form
-Complaint Register
-PDF Report
 
 <img width="1912" height="862" alt="Blur_5- Complaint Form" src="https://github.com/user-attachments/assets/7119fd58-8cdf-4552-8005-1e4884e6b6d7" />
-
 
 ### Customer Feedback  
 
 <img width="1921" height="1456" alt="Blur_6- Feedback Form" src="https://github.com/user-attachments/assets/2e011f79-2eac-4b25-8e3e-67d8fb380933" />
 
-
 ### Risk Assessment  
 
 <img width="1241" height="1754" alt="Blur_7a- Risk" src="https://github.com/user-attachments/assets/67a726d5-c447-4b4b-bea9-a199e32ca362" />
 <img width="1241" height="332" alt="Blur_7b- Risk" src="https://github.com/user-attachments/assets/06d20b1f-33fa-45ff-939c-4751336f2dd4" />
-
 
 ### Management Review Meeting
 
@@ -72,13 +51,11 @@ PDF Report
 
 <img width="1241" height="1450" alt="Blur_10b - CCM Report" src="https://github.com/user-attachments/assets/d7679008-a41c-4844-b365-2c9b0571823c" />
 
-
 ### Deviation Management
 
 <img width="1900" height="762" alt="Blur_11- Dev  Log" src="https://github.com/user-attachments/assets/3ad2d160-b91c-4247-8cd2-87f7e436b0e6" />
 
 <img width="1907" height="772" alt="Blur_12- Dev  Log" src="https://github.com/user-attachments/assets/269aa7f6-2a3e-4123-9bca-77532c304798" />
-
 
 ### CAPA (Corrective & Preventive Action)
 
@@ -95,7 +72,6 @@ PDF Report
 ### Document Control  
 
 <img width="1912" height="792" alt="Blur_17- Master Index" src="https://github.com/user-attachments/assets/1e85d80a-a599-41eb-97ea-e054dbcf25d8" />
-
 
 
 ---
