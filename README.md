@@ -92,7 +92,7 @@ Email notification
 ## Business Workflows
 
 <img width="718" height="924" alt="Deviation" src="https://github.com/user-attachments/assets/61f38983-afcc-4aeb-a9cf-1943a7b7ea0b" />
-<br>
+<br><br>
 <img width="710" height="923" alt="Change Control Management" src="https://github.com/user-attachments/assets/d43eb6e9-a4b1-49ef-96b5-2792d6f6e00f" />
 
 ---
