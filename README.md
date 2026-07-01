@@ -106,18 +106,18 @@ Designed for organizations managing controlled documents, complaints, CAPA, audi
 
 ## Modules Explanation
 
-## Complaint Handling
-Forms
-Complaint Form
-Complaint Log
-Features
-Complaint registration
-Investigation workflow
-Status tracking
-PDF generation
-Approval workflow
-Electronic signature
-Email notification
+### 📊 Dashboard
+
+**Quality at a glance**
+
+Provides management with a centralized overview of quality activities, including complaints, CAPA, audits, recalls, training status, and risk metrics. Interactive charts help monitor KPIs and identify pending actions requiring attention.
+
+### Highlights
+- KPI Dashboard
+- Interactive Charts
+- Pending Approvals
+- Quality Metrics
+
 
 ---
 <br>
