@@ -53,7 +53,8 @@ PDF Report
 ### Risk Assessment  
 
 <img width="1241" height="1754" alt="Blur_7a- Risk" src="https://github.com/user-attachments/assets/67a726d5-c447-4b4b-bea9-a199e32ca362" />
-<img width="1241" height="1754" alt="Blur_7b- Risk" src="https://github.com/user-attachments/assets/a2110c0a-b887-4149-97c3-2f59fc4657d5" />
+<img width="1241" height="332" alt="Blur_7b- Risk" src="https://github.com/user-attachments/assets/06d20b1f-33fa-45ff-939c-4751336f2dd4" />
+
 
 ### Management Review Meeting
 
@@ -61,7 +62,8 @@ PDF Report
 
 ### Internal Audit  
 
-<img width="1241" height="1754" alt="Blur_18- IA" src="https://github.com/user-attachments/assets/a0d5ef3b-3bf1-4edd-ae98-65bcaf5be506" />
+<img width="1241" height="1439" alt="Blur_18- IA" src="https://github.com/user-attachments/assets/c6deecb0-1e0e-4117-9f43-4cd970604c7a" />
+
 
 ### Change Control
 
