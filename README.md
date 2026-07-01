@@ -499,7 +499,7 @@ The system can be customized for different industries, departments, workflows, a
 
 <br>
 
-## Developed by
+## About the Developer
 
 - Muhammad Umair
 - Laravel Developer
