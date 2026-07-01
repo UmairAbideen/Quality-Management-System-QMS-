@@ -2,7 +2,7 @@
 A web-based Quality Management System developed for an imported Medical Device Distributor to comply with ISO 9001 quality processes.
 Designed for organizations managing controlled documents, complaints, CAPA, audits, employee training, product recalls, and regulatory workflows.
 
-![Uploading Blur_19.png…]()
+<img width="1732" height="725" alt="Blur_19" src="https://github.com/user-attachments/assets/d7cb5a99-01d4-489b-a899-63604f01a5d7" />
 
 ## Features
 
