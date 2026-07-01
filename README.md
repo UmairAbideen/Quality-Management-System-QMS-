@@ -52,7 +52,7 @@ PDF Report
 
 ### Risk Assessment  
 
-<img width="1241" height="1754" alt="Blur_7a- Risk" src="https://github.com/user-attachments/assets/67a726d5-c447-4b4b-bea9-a199e32ca362" />
+<img width="993" height="1403" alt="Blur_7a- Risk" src="https://github.com/user-attachments/assets/67a726d5-c447-4b4b-bea9-a199e32ca362" />
 <img width="1241" height="332" alt="Blur_7b- Risk" src="https://github.com/user-attachments/assets/06d20b1f-33fa-45ff-939c-4751336f2dd4" />
 
 
