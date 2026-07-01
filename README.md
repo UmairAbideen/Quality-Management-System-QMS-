@@ -93,10 +93,11 @@ Email notification
 
 ## 🔄 Deviation Management Workflow
 
-<img width="1107" height="937" alt="image" src="https://github.com/user-attachments/assets/c7a125db-1c59-45bc-b5be-99f820c965ef" />
+<img width="718" height="924" alt="Deviation" src="https://github.com/user-attachments/assets/61f38983-afcc-4aeb-a9cf-1943a7b7ea0b" />
 
 ## 🔄 Change Control Management Workflow
-<img width="1122" height="747" alt="image" src="https://github.com/user-attachments/assets/7e363638-110d-4f11-89ec-e2d5d59e3932" />
+
+<img width="710" height="923" alt="Change Control Management" src="https://github.com/user-attachments/assets/d43eb6e9-a4b1-49ef-96b5-2792d6f6e00f" />
 
 ---
 <br>
