@@ -108,7 +108,7 @@ This repository showcases the architecture, modules, screenshots, and technical 
 <img width="1912" height="792" alt="Blur_17- Master Index" src="https://github.com/user-attachments/assets/1e85d80a-a599-41eb-97ea-e054dbcf25d8" />
 
 
----
+
 <br>
 
 ## 📦 Modules
@@ -135,7 +135,7 @@ This repository showcases the architecture, modules, screenshots, and technical 
 13. Employee Training  
 14. Management Review Meeting  
 
----
+
 <br>
 
 ## Modules Explanation
@@ -151,7 +151,7 @@ Provides management with a centralized overview of quality activities, including
 - Interactive Charts
 - Quality Metrics
 
----
+
 
 ## 👥 User Management
 
@@ -166,7 +166,7 @@ Manages system users across multiple departments with role-based permissions. Su
 - Excel Import
 - Account Activation/Deactivation
 
----
+
 
 ## 📁 Document Management
 
@@ -180,7 +180,7 @@ Maintains Quality Policies and SOPs in a centralized/department-wise repository 
 - Department-wise Access
 - Controlled Document Distribution
 
----
+
 
 ## 📝 Product Complaint Handling
 
@@ -192,7 +192,7 @@ Records customer complaints, tracks investigations, and maintains a complaint hi
 - Complaint Registration
 - Complaint Tracking
   
----
+
 
 ## 💬 Customer Feedback
 
@@ -205,7 +205,7 @@ Collects customer feedback, maintains historical records, and generates Excel re
 - Historical Records
 - Excel Reporting
 
----
+
 
 ## ⚠️ Risk Assessment
 
@@ -219,7 +219,7 @@ Evaluates operational and product-related risks, assigns risk levels, and assess
 - Approval Workflow
 - Risk Tracking
 
----
+
 
 ## 📅 Management Review Meeting
 
@@ -233,7 +233,7 @@ Supports the complete management review process by organizing meeting agendas, r
 - Email Sharing
 - Electronic Signatures
 
----
+
 
 ## 🔍 Internal Audit
 
@@ -245,7 +245,7 @@ Schedules internal audits, records findings, and documents audit reports to ensu
 - Audit Scheduling
 - Audit Reporting
 
----
+
 
 ## 🚨 Product Recall
 
@@ -258,7 +258,7 @@ Manages product recall activities from recall initiation through final closure w
 - Recall Tracking
 - Closing Reports
 
----
+
 
 ## 🔄 Change Control Management
 
@@ -273,7 +273,7 @@ Ensures organizational changes are evaluated, risk assessed, approved, implement
 - Implementation Verification
 - Change Closure
 
----
+
 
 ## 📌 Deviation Management
 
@@ -288,7 +288,7 @@ Captures process deviations, performs root cause analysis and risk evaluation, a
 - Management Approval
 - Closure Tracking
 
----
+
 
 ## ✅ Corrective and Preventive Action (CAPA)
 
@@ -302,7 +302,7 @@ Tracks corrective and preventive actions from identification through implementat
 - Effectiveness Verification
 - Approval Workflow
 
----
+
 
 ## 🎓 Employee Training
 
@@ -316,7 +316,7 @@ Plans department-wise employee training, records attendance with electronic sign
 - Electronic Signatures
 - New Employee Orientation
 
----
+
 
 ## 📚 Document Control
 
@@ -330,7 +330,7 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 - Obsolescence Control
 - Internal & External Master Indexes
 
----
+
 <br>
 
 ## Business Workflows
@@ -339,32 +339,30 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 <br><br><br>
 <img width="710" height="923" alt="Change Control Management" src="https://github.com/user-attachments/assets/d43eb6e9-a4b1-49ef-96b5-2792d6f6e00f" />
 
----
+
 <br>
 
 ## 👤 User Roles
 
 | Role | Responsibilities |
-|------|------------------|
+|||
 | Admin / QA | Complete system administration & QA Approvals |
 | Director | Final approvals |
 | Manager | Department approvals |
 | Officer | Data entry & submissions |
 
----
 <br>
 
 
 ## 🏢 Departments
 
 | Department |
-|------------|
+||
 | QA |
 | Supply Chain |
 | Technical Service |
 | Sales |
 
----
 <br>
 
 ## ✨ Functionalities
@@ -401,7 +399,6 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 -  Responsive User Interface
 -  Production Deployment
 
----
 <br>
 
 ## 🏗️ System Architecture
@@ -449,7 +446,7 @@ Controls document numbering, revision requests, obsolescence, and master indexes
                                         │  DOMPDF (PDF Generation)                │
                                         └─────────────────────────────────────────┘
 
----
+
 <br>
 
 ## 🛠️ Technologies Used
