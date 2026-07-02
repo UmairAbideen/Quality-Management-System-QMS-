@@ -6,9 +6,11 @@ Designed for organizations managing controlled documents, complaints, CAPA, audi
 
 <br><br>
 
-## 📄Disclaimer
+## Who is this for?
 
-This repository showcases the architecture, modules, screenshots, and technical implementation of a Quality Management System developed by me. Source code is intentionally kept private to protect confidential business logic and client information. All screenshots have been sanitized to remove sensitive organizational data.
+- Drugs & Medical Device Distributors
+- ISO 9001  Organizations
+- Companies requiring document control, CAPA, audits, training, and quality workflows
 
 <br>
 
@@ -497,6 +499,12 @@ Controls document numbering, revision requests, obsolescence, and master indexes
 ## ⚙️ Customization Available
 
 The system can be customized for different industries, departments, workflows, approval hierarchies, and document requirements based on organizational needs.
+
+<br>
+
+## 📄Disclaimer
+
+This repository showcases the architecture, modules, screenshots, and technical implementation of a Quality Management System developed by me. Source code is intentionally kept private to protect confidential business logic and client information. All screenshots have been sanitized to remove sensitive organizational data.
 
 <br>
 
